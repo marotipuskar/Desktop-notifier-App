@@ -4,7 +4,7 @@ user_input=int(input("Enter which operation want to perform :-  "))
 if user_input==1:
     print("Switch off the computer")
 elif user_input==2:
-    print("Sleep Mode")
+    print("Sleep Mode") 
 elif user_input==3:
     print("Water Reminder")
 elif user_input==4:
